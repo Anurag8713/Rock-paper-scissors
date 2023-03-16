@@ -1,0 +1,40 @@
+#computerchoice{
+    color: red;
+}
+#userchoice{
+    color: #2b00ff;
+}
+#result{
+    color: #ff00ea;
+}
+.black{
+    color: #8c00ff;
+    margin-left: 20px;
+}
+#rock{
+    
+    background-color: #fbff00;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+#scissors{
+   
+    background-color: #fbff00;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+#paper{
+   
+    background-color: #fbff00;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.background{
+    background-color: aquamarine;
+    border: solid 1px black;
+}
+.Game{
+    margin-left: 20px;
+    background-color: rgb(240, 255, 127);
+    
+}
